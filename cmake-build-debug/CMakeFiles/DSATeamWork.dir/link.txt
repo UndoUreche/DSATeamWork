@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DSATeamWork.dir/main.cpp.o  -o DSATeamWork 

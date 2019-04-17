@@ -1,0 +1,3 @@
+/mnt/e/College/First Year/Second Semester/DSATeamWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/College/First Year/Second Semester/DSATeamWork/cmake-build-debug/CMakeFiles/DSATeamWork.dir
+/mnt/e/College/First Year/Second Semester/DSATeamWork/cmake-build-debug/CMakeFiles/edit_cache.dir
