@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/College/First Year/Second Semester/DSATeamWork/Heap.cpp
+Heap.h
+E:/College/First Year/Second Semester/DSATeamWork/Heap.h
+
+E:/College/First Year/Second Semester/DSATeamWork/Heap.h
+Tests.h
+E:/College/First Year/Second Semester/DSATeamWork/Tests.h
+list
+-
+
+E:/College/First Year/Second Semester/DSATeamWork/Tests.cpp
+iostream
+-
+Tests.h
+E:/College/First Year/Second Semester/DSATeamWork/Tests.h
+
+E:/College/First Year/Second Semester/DSATeamWork/Tests.h
+Heap.h
+E:/College/First Year/Second Semester/DSATeamWork/Heap.h
+assert.h
+-
+
+E:/College/First Year/Second Semester/DSATeamWork/main.cpp
+iostream
+-
+Tests.h
+E:/College/First Year/Second Semester/DSATeamWork/Tests.h
+

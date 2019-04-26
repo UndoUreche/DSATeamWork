@@ -3,4 +3,7 @@ project(DSATeamWork)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DSATeamWork main.cpp)
+add_executable(DSATeamWork
+        Heap.cpp Heap.h
+        Tests.h Tests.cpp
+        main.cpp)
